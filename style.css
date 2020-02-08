@@ -1,0 +1,13 @@
+body{
+    display:flex;
+}
+#menu{
+    width: 25%;
+}
+#hidden{
+    display:none;
+}
+#myName{
+    justify-content: center;
+    font-weight: 100;
+}
